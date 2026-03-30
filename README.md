@@ -9,6 +9,8 @@ The application simulates standard PEM electrochemical losses, including:
 - Activation, ohmic, and mass transport losses.
 - Real-time efficiency and power consumption monitoring.
 
+![img](screenshot.png)
+
 ## Getting Started
 
 ### Prerequisites
