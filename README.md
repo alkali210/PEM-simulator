@@ -66,5 +66,3 @@ python -m ruff check src/
   - `widgets/`: Modular UI component implementations.
 - `tests/`: Unit and integration test suites.
 - `scripts/`: Utility scripts for development and automation.
-- `docs/`: Technical specifications and user manuals.
-- `assets/`: UI resources, icons, and theme files.
