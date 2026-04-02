@@ -17,14 +17,14 @@ The application simulates standard PEM electrochemical losses, including:
 
 ### Prerequisites
 
-- Python 3.8 or higher.
+- Python 3.11 or higher.
 
 ### Installation
 
 Install the required dependencies using pip:
 
 ```bash
-pip install PySide6 pyqtgraph numpy pytest mypy ruff
+pip install PySide6 pyqtgraph numpy
 ```
 
 ### Running the Application
@@ -38,6 +38,12 @@ python src/main.py
 ## Development and Quality Assurance
 
 ### Testing
+
+Install the required dependencies for testing:
+
+```bash
+pip install pytest mypy ruff
+```
 
 Run all unit tests to ensure system stability:
 
